@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1569172211 source:/home/hlareman/C Projects/Gameengine/main.c
+	<stdlib.h>
+	<stdio.h>
+	<wchar.h>
+	<locale.h>
+	"Screencode.h"
+	"External_code.h"
+
+1569155869 /home/hlareman/C Projects/Gameengine/Screencode.h
+	<stdio.h>
+	<stdlib.h>
+
+1569172172 source:/home/hlareman/C Projects/Gameengine/Screencode.c
+	"Screencode.h"
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+
+1569172172 source:/home/hlareman/C Projects/Gameengine/External_code.c
+	"External_code.h"
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1569172243 /home/hlareman/C Projects/Gameengine/External_code.h
+
