@@ -27,6 +27,8 @@ int main( )
 
         }
 
+        //Beginning of space to put game code.
+
         switch(ckey) //Detect the direction of travel
         {
         case 68:
@@ -53,7 +55,7 @@ int main( )
             player(Scr, iLdir);
         }
 
-
+        //End of space to put game code
 
         usleep(40000);//Framerate variable (Running at 12.5 fps)
     }
